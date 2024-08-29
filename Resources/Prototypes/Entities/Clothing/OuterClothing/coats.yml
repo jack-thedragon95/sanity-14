@@ -466,3 +466,21 @@
     sprite: Clothing/OuterClothing/Coats/expensive_coat.rsi
   - type: Clothing
     sprite: Clothing/OuterClothing/Coats/expensive_coat.rsi
+
+- type: entity
+  parent: [ClothingOuterStorageBase, BaseSyndicateContraband, AllowSuitStorageClothing]
+  id: ClothingOuterCoatSyndieHighCollar
+  name: syndicate high collar jacket
+  description: FUCK HEAD!
+  components:
+  - type: Sprite
+    sprite: Clothing/OuterClothing/Coats/touchdown.rsi
+  - type: Clothing
+    sprite: Clothing/OuterClothing/Coats/touchdown.rsi
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.45
+        Slash: 0.45
+        Piercing: 0.45
+        Heat: 0.45
