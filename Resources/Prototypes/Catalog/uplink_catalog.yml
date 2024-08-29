@@ -1315,6 +1315,16 @@
       - NukeOpsUplink
 
 - type: listing
+  id: UplinkSyndieHighCollar
+  name: uplink-clothing-SyndieHighCollar-name
+  description: uplink-clothing-SyndieHighCollar-desc
+  productEntity: ClothingOuterCoatSyndieHighCollar
+  cost:
+    Telecrystal: 8
+  categories:
+  - UplinkWearables
+
+- type: listing
   id: UplinkHardsuitSyndieElite
   name: uplink-hardsuit-syndieelite-name
   description: uplink-hardsuit-syndieelite-desc

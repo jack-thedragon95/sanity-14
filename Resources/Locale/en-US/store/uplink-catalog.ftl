@@ -442,3 +442,6 @@ uplink-backpack-syndicate-desc = Lightweight explosion-proof а backpack for hol
 
 uplink-combat-bakery-name = Combat Bakery Kit
 uplink-combat-bakery-desc = A kit of clandestine baked weapons. Contains a baguette which a skilled mime could use as a sword and a pair of throwing croissants. Once the job is done, eat the evidence.
+
+uplink-clothing-SyndieHighCollar-name = Syndicate high collar jacket
+uplink-clothing-SyndieHighCollar-desc = An expensive leather jacket made for professional e-sword users. Pretty damn resistant against most attacks except caustic damage.
